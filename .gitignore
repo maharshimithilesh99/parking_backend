@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ParkingApp.API/bin
+/ParkingApp.API/obj
+/ParkingApp.API/Uploads/CompanyDocuments/9479ef3a-3717-4881-ae77-630899c9d0b6.avif
+/.vs/ParkingApp/FileContentIndex
+/.vs/ParkingApp/v17
+/ParkingApp.Businesslogic/bin
+/ParkingApp.Businesslogic/obj
+/ParkingApp.Data/bin
+/ParkingApp.Data/obj
+/ParkingApp.Infrastructure/bin
+/ParkingApp.Infrastructure/obj
