@@ -15,3 +15,5 @@
 /ParkingApp.Infrastructure/obj
 /.vs/ParkingApp/CopilotIndices/17.14.827.52834
 /.vs/ParkingApp/config
+/ParkingApp.API/Properties/PublishProfiles
+/ParkingApp.API/ParkingApp.API.csproj.user
